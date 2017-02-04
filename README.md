@@ -1,26 +1,18 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# Project Name: Lesson 3 Version Control
 
+## Course Title:
+LIS 2360: Web Application Development
 
-Hi there! Welcome to Cloud9 IDE!
+## Assignment Date:
+February 3rd 2017
 
-To get you started, we included a small hello world application.
+## Student name
+Landon Thaler
 
-1) Open the hello-world.html file
+## Project Description
+Summarize key concepts on a bootstrap template webpage.
 
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+## Lessons learned in the assignment:
+1. The different GitHub commands and what they mean.
+2. The difference between a local and a open source repository.
+3. What a version control system actually is and what they do.
